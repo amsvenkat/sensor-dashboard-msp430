@@ -1,0 +1,11 @@
+"./main.obj"
+"./libs/LCD.obj"
+"./libs/adac.obj"
+"./libs/i2c.obj"
+"./libs/interrupts.obj"
+"./libs/mma.obj"
+"./libs/sensor.obj"
+"./libs/templateEMP.obj"
+"./libs/uart.obj"
+"../lnk_msp430g2553.cmd"
+-llibc.a
